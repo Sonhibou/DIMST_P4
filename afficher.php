@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>Page de traitement</title>
+        <link rel="stylesheet" href="afficher.css">
         <meta charset="utf-8">
     </head>
     <body>
