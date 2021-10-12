@@ -17,6 +17,6 @@
 
     </body>
     <p>
-        
+        Clicquer <a href="form.php">ICI</a> pour retourner sur le formulaire
     </p>
 </html>
